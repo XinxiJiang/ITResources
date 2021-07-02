@@ -81,6 +81,12 @@
 - [中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)
 - [protobuf 序列化](https://github.com/protocolbuffers/protobuf)
 - [Zipkin 链路跟踪](https://github.com/openzipkin/zipkin)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Awesome Python资源大全](https://github.com/jobbole/awesome-python-cn)
+- [Springboot Admin监控](https://github.com/codecentric/spring-boot-admin)
+- [Quartz 定时任务](https://github.com/quartz-scheduler/quartz)
+- [retrofit Http客户端框架](https://github.com/square/retrofit)
+
 
 # 理论与概念
 - [软件架构师之路](https://github.com/justinamiller/SoftwareArchitect)
@@ -92,6 +98,9 @@
 - [Kubernetes中文指南](https://github.com/rootsongjc/kubernetes-handbook)
 - [Kubernetes指南](https://github.com/feiskyer/kubernetes-handbook)
 - [Python 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
+- [AI机器学习](https://github.com/apachecn/AiLearning)
+- [Java Design Patterns设计模式](https://github.com/iluwatar/java-design-patterns)
+
 
 # 示例
 - [Algorithms Java 算法](https://github.com/TheAlgorithms/Java)
@@ -102,6 +111,8 @@
 - [JustAuth 各种第三方授权登陆整合](https://github.com/justauth/JustAuth)
 - [EL-ADMIN后台管理系统](https://github.com/elunez/eladmin)
 - [mall电商系统](https://github.com/macrozheng/mall)
+- [Machine Learning实战](https://github.com/pbharrin/machinelearninginaction)
+
 
 # 面试与教程
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
