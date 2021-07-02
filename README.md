@@ -19,6 +19,7 @@
 - [Coursera 学习网站](https://www.coursera.org/)
 
 # 手册
+- [Spring MVC 4.2.4中文文档](https://github.com/linesh-simplicity/translation-spring-mvc-4-documentation)
 - [PostgreSQL中文手册 - 更新至12.2](https://github.com/postgres-cn/pgdoc-cn/releases)
 - [PostgreSQL 12.2在线手册](http://www.postgres.cn/docs/12/)
 
@@ -65,10 +66,18 @@
 - [谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
 
 # 开源框架和库
-- [ETL工具集合](https://github.com/pawl/awesome-etl)
-- [Kettle](https://github.com/pentaho/pentaho-kettle)
+- [Awesome Java](https://github.com/akullpp/awesome-java)
+- [Awesome Java CN](https://github.com/jobbole/awesome-java-cn)
+- [Awesome C++](https://github.com/fffaraz/awesome-cpp)
+- [awesome-go](https://github.com/avelino/awesome-go)
+- [awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
+- [awesome-go中文版](https://github.com/hackstoic/golang-open-source-projects)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Awesome Python资源大全](https://github.com/jobbole/awesome-python-cn)
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 - [Awesome iOS](https://github.com/vsouza/awesome-ios)
+- [ETL工具集合](https://github.com/pawl/awesome-etl)
+- [Kettle](https://github.com/pentaho/pentaho-kettle)
 - [Kubernetes相关的工具和库](https://github.com/tomhuang12/awesome-k8s-resources)
 - [fabric8io k8s客户端Java库](https://github.com/fabric8io/kubernetes-client)
 - [istio](https://github.com/istio/istio)  
@@ -76,16 +85,14 @@
 - [Keda Auto Scaling的库](https://github.com/kedacore/keda)
 - [gin Go语言的Web框架](https://github.com/gin-gonic/gin)
 - [fyne Go语言的UI框架](https://github.com/fyne-io/fyne)
-- [awesome-go](https://github.com/avelino/awesome-go)
-- [awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
-- [中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)
 - [protobuf 序列化](https://github.com/protocolbuffers/protobuf)
 - [Zipkin 链路跟踪](https://github.com/openzipkin/zipkin)
-- [Awesome Python](https://github.com/vinta/awesome-python)
-- [Awesome Python资源大全](https://github.com/jobbole/awesome-python-cn)
 - [Springboot Admin监控](https://github.com/codecentric/spring-boot-admin)
 - [Quartz 定时任务](https://github.com/quartz-scheduler/quartz)
 - [retrofit Http客户端框架](https://github.com/square/retrofit)
+- [Jedis Redis的Java客户端](https://github.com/redis/jedis)
+- [Guava 谷歌Java框架](https://github.com/google/guava)
+
 
 
 # 理论与概念
@@ -103,6 +110,9 @@
 
 
 # 示例
+- [SpringMVC官方示例](https://github.com/spring-projects/spring-mvc-showcase)
+- [设计模式 Java/Python](https://github.com/csparpa/gof-design-patterns)
+- [Head First Design Patterns](https://github.com/bethrobson/Head-First-Design-Patterns)
 - [Algorithms Java 算法](https://github.com/TheAlgorithms/Java)
 - [eugenp Java各种示例](https://github.com/eugenp/tutorials)
 - [Springboot示例](https://github.com/xkcoding/spring-boot-demo)
