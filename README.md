@@ -38,8 +38,10 @@ Collecting the IT resources: pages, tools, software, books
 - [gcloud命令官网](https://cloud.google.com/sdk/gcloud/reference)
 - [gsutil命令官网](https://cloud.google.com/storage/docs/gsutil)
 - [vim常用命令，linux必备](https://www.pkslow.com/archives/vim-commands)
+- [像IDE一样使用vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 - [Linux常用命令整理](https://www.pkslow.com/archives/linux-commands)
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line)
+- [cdto快速打开终端](https://github.com/jbtule/cdto)
 
 
 # 软件与快捷键
@@ -58,6 +60,9 @@ Collecting the IT resources: pages, tools, software, books
     - [VSCode的REST Client指南，超好用的HTTP客户端工具](https://www.pkslow.com/archives/vscode-rest-client)
     - [好用的VSCode的SFTP插件](https://www.pkslow.com/archives/vscode-sftp)
 
+- [Lens K8s客户端](https://github.com/lensapp/lens)
+- [Minikube 本地起k8s](https://github.com/kubernetes/minikube)
+- [helm Kubernetes资源管理](https://github.com/helm/helm)
 
 # 开源框架和库
 - [ETL工具集合](https://github.com/pawl/awesome-etl)
@@ -67,11 +72,15 @@ Collecting the IT resources: pages, tools, software, books
 - [Kubernetes相关的工具和库](https://github.com/tomhuang12/awesome-k8s-resources)
 - [fabric8io k8s客户端Java库](https://github.com/fabric8io/kubernetes-client)
 - [istio](https://github.com/istio/istio)  
+- [Kong 网关](https://github.com/Kong/kong)
 - [Keda Auto Scaling的库](https://github.com/kedacore/keda)
 - [gin Go语言的Web框架](https://github.com/gin-gonic/gin)
 - [fyne Go语言的UI框架](https://github.com/fyne-io/fyne)
+- [awesome-go](https://github.com/avelino/awesome-go)
+- [awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
 - [中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)
 - [protobuf 序列化](https://github.com/protocolbuffers/protobuf)
+- [Zipkin 链路跟踪](https://github.com/openzipkin/zipkin)
 
 # 理论与概念
 - [软件架构师之路](https://github.com/justinamiller/SoftwareArchitect)
@@ -80,5 +89,18 @@ Collecting the IT resources: pages, tools, software, books
 # 书箱
 - [Awesome Go Books](https://github.com/dariubs/GoBooks)
 - [Go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)
+- [Kubernetes中文指南](https://github.com/rootsongjc/kubernetes-handbook)
+- [Kubernetes指南](https://github.com/feiskyer/kubernetes-handbook)
+
+# 示例
+- [eugenp Java各种示例](https://github.com/eugenp/tutorials)
+- [Springboot示例](https://github.com/xkcoding/spring-boot-demo)
+- [JustAuth 各种第三方授权登陆整合](https://github.com/justauth/JustAuth)
+- [EL-ADMIN后台管理系统](https://github.com/elunez/eladmin)
+
+
+# 面试
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [JavaFamily](https://github.com/AobingJava/JavaFamily)
 
 
