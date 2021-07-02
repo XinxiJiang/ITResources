@@ -1,6 +1,5 @@
 # ITResources
-Collecting the IT resources: pages, tools, software, books
-
+收集一些有用的IT相关的资源，如网站、电子书、手册、软件、教程、面试指南等。很多对我还是很有用的，也希望能帮助到大家吧。
 
 # 网站
 - [Google 搜索](https://www.google.com)
