@@ -62,6 +62,7 @@
 - [Lens K8s客户端](https://github.com/lensapp/lens)
 - [Minikube 本地起k8s](https://github.com/kubernetes/minikube)
 - [helm Kubernetes资源管理](https://github.com/helm/helm)
+- [谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
 
 # 开源框架和库
 - [ETL工具集合](https://github.com/pawl/awesome-etl)
@@ -90,16 +91,25 @@
 - [Go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)
 - [Kubernetes中文指南](https://github.com/rootsongjc/kubernetes-handbook)
 - [Kubernetes指南](https://github.com/feiskyer/kubernetes-handbook)
+- [Python 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 
 # 示例
+- [Algorithms Java 算法](https://github.com/TheAlgorithms/Java)
 - [eugenp Java各种示例](https://github.com/eugenp/tutorials)
 - [Springboot示例](https://github.com/xkcoding/spring-boot-demo)
+- [Springboot学习示例](https://github.com/ityouknow/spring-boot-examples)
+- [SpringAll](https://github.com/wuyouzhuguli/SpringAll)
 - [JustAuth 各种第三方授权登陆整合](https://github.com/justauth/JustAuth)
 - [EL-ADMIN后台管理系统](https://github.com/elunez/eladmin)
+- [mall电商系统](https://github.com/macrozheng/mall)
 
-
-# 面试
+# 面试与教程
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [CS-Notes 技术面试基础](https://github.com/CyC2018/CS-Notes)
+- [互联网Java进阶知识扫盲](https://github.com/doocs/advanced-java)
+- [Springboot基础教程](https://github.com/dyc87112/SpringBoot-Learning)
 - [JavaFamily](https://github.com/AobingJava/JavaFamily)
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide)
+
 
 
