@@ -1,22 +1,35 @@
 # ITResources
 收集一些有用的IT相关的资源，如网站、电子书、手册、软件、教程、面试指南等。很多对我还是很有用的，也希望能帮助到大家吧。
 
-# 网站
-- [Google 搜索](https://www.google.com)
-- [GitHub 代码](https://github.com/)
-- [stack overflow 技术问题](https://stackoverflow.com/)
-- [Docker 容器](https://www.docker.com/)
-- [Kubernetes 容器编排](https://kubernetes.io/)
-- [DockerHub 查询镜像](https://hub.docker.com/)
-- [Terraform 云部署](https://terraform.io/)
-- [Ansible 运维部署](https://www.ansible.com/)
-- [Maven仓库](https://mvnrepository.com/)
-- [阿里云Maven仓库](https://maven.aliyun.com/mvn/search)
-- [Spring官网](https://spring.io/)
-- [Medium 高质量文章](https://medium.com/)
-- [Baeldung Java示例多多](https://www.baeldung.com)
-- [qwiklabs 实验学习](https://www.qwiklabs.com/)
-- [Coursera 学习网站](https://www.coursera.org/)
+
+# 开源框架和库
+- [Awesome Java](https://github.com/akullpp/awesome-java)
+- [Awesome Java CN](https://github.com/jobbole/awesome-java-cn)
+- [Awesome C++](https://github.com/fffaraz/awesome-cpp)
+- [awesome-go](https://github.com/avelino/awesome-go)
+- [awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
+- [awesome-go中文版](https://github.com/hackstoic/golang-open-source-projects)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Awesome Python资源大全](https://github.com/jobbole/awesome-python-cn)
+- [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
+- [Awesome iOS](https://github.com/vsouza/awesome-ios)
+- [ETL工具集合](https://github.com/pawl/awesome-etl)
+- [Kettle](https://github.com/pentaho/pentaho-kettle)
+- [Kubernetes相关的工具和库](https://github.com/tomhuang12/awesome-k8s-resources)
+- [fabric8io k8s客户端Java库](https://github.com/fabric8io/kubernetes-client)
+- [istio](https://github.com/istio/istio)
+- [Kong 网关](https://github.com/Kong/kong)
+- [Keda Auto Scaling的库](https://github.com/kedacore/keda)
+- [gin Go语言的Web框架](https://github.com/gin-gonic/gin)
+- [fyne Go语言的UI框架](https://github.com/fyne-io/fyne)
+- [protobuf 序列化](https://github.com/protocolbuffers/protobuf)
+- [Zipkin 链路跟踪](https://github.com/openzipkin/zipkin)
+- [Springboot Admin监控](https://github.com/codecentric/spring-boot-admin)
+- [Quartz 定时任务](https://github.com/quartz-scheduler/quartz)
+- [retrofit Http客户端框架](https://github.com/square/retrofit)
+- [Jedis Redis的Java客户端](https://github.com/redis/jedis)
+- [Guava 谷歌Java框架](https://github.com/google/guava)
+
 
 # 手册
 - [Spring MVC 4.2.4中文文档](https://github.com/linesh-simplicity/translation-spring-mvc-4-documentation)
@@ -65,35 +78,6 @@
 - [helm Kubernetes资源管理](https://github.com/helm/helm)
 - [谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
 
-# 开源框架和库
-- [Awesome Java](https://github.com/akullpp/awesome-java)
-- [Awesome Java CN](https://github.com/jobbole/awesome-java-cn)
-- [Awesome C++](https://github.com/fffaraz/awesome-cpp)
-- [awesome-go](https://github.com/avelino/awesome-go)
-- [awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
-- [awesome-go中文版](https://github.com/hackstoic/golang-open-source-projects)
-- [Awesome Python](https://github.com/vinta/awesome-python)
-- [Awesome Python资源大全](https://github.com/jobbole/awesome-python-cn)
-- [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
-- [Awesome iOS](https://github.com/vsouza/awesome-ios)
-- [ETL工具集合](https://github.com/pawl/awesome-etl)
-- [Kettle](https://github.com/pentaho/pentaho-kettle)
-- [Kubernetes相关的工具和库](https://github.com/tomhuang12/awesome-k8s-resources)
-- [fabric8io k8s客户端Java库](https://github.com/fabric8io/kubernetes-client)
-- [istio](https://github.com/istio/istio)  
-- [Kong 网关](https://github.com/Kong/kong)
-- [Keda Auto Scaling的库](https://github.com/kedacore/keda)
-- [gin Go语言的Web框架](https://github.com/gin-gonic/gin)
-- [fyne Go语言的UI框架](https://github.com/fyne-io/fyne)
-- [protobuf 序列化](https://github.com/protocolbuffers/protobuf)
-- [Zipkin 链路跟踪](https://github.com/openzipkin/zipkin)
-- [Springboot Admin监控](https://github.com/codecentric/spring-boot-admin)
-- [Quartz 定时任务](https://github.com/quartz-scheduler/quartz)
-- [retrofit Http客户端框架](https://github.com/square/retrofit)
-- [Jedis Redis的Java客户端](https://github.com/redis/jedis)
-- [Guava 谷歌Java框架](https://github.com/google/guava)
-
-
 
 # 理论与概念
 - [软件架构师之路](https://github.com/justinamiller/SoftwareArchitect)
@@ -122,6 +106,23 @@
 - [EL-ADMIN后台管理系统](https://github.com/elunez/eladmin)
 - [mall电商系统](https://github.com/macrozheng/mall)
 - [Machine Learning实战](https://github.com/pbharrin/machinelearninginaction)
+
+# 网站
+- [Google 搜索](https://www.google.com)
+- [GitHub 代码](https://github.com/)
+- [stack overflow 技术问题](https://stackoverflow.com/)
+- [Docker 容器](https://www.docker.com/)
+- [Kubernetes 容器编排](https://kubernetes.io/)
+- [DockerHub 查询镜像](https://hub.docker.com/)
+- [Terraform 云部署](https://terraform.io/)
+- [Ansible 运维部署](https://www.ansible.com/)
+- [Maven仓库](https://mvnrepository.com/)
+- [阿里云Maven仓库](https://maven.aliyun.com/mvn/search)
+- [Spring官网](https://spring.io/)
+- [Medium 高质量文章](https://medium.com/)
+- [Baeldung Java示例多多](https://www.baeldung.com)
+- [qwiklabs 实验学习](https://www.qwiklabs.com/)
+- [Coursera 学习网站](https://www.coursera.org/)
 
 
 # 面试与教程
