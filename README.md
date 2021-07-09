@@ -2,8 +2,8 @@
 收集一些有用的IT相关的资源，如网站、电子书、手册、软件、教程、面试指南等。很多对我还是很有用的，也希望能帮助到大家吧。
 
 以下两个地址可以访问：
-[LarryDpk/ITResources GitHub](https://github.com/LarryDpk/ITResources)
-[IT资源收集整理 南瓜慢说](https://www.pkslow.com/archives/it-resources)
+- [LarryDpk/ITResources GitHub](https://github.com/LarryDpk/ITResources)
+- [IT资源收集整理 南瓜慢说](https://www.pkslow.com/archives/it-resources)
 
 # 开源框架和库
 - [Awesome Java](https://github.com/akullpp/awesome-java)
@@ -135,6 +135,15 @@
 - [Springboot基础教程](https://github.com/dyc87112/SpringBoot-Learning)
 - [JavaFamily](https://github.com/AobingJava/JavaFamily)
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide)
+
+# HarmonyOS 鸿蒙
+- [HarmonyOS官网](https://www.harmonyos.com/cn/home/)
+- [DevEco Studio下载](https://developer.harmonyos.com/cn/develop/deveco-studio#download)
+- [HarmonyOS官方文档](https://developer.harmonyos.com/cn/documentation)
+- [W3Cschool文档](https://www.w3cschool.cn/harmonyos/)
+- [鸿蒙OS分布式操作系统 OpenHarmony](https://github.com/fenwii/OpenHarmony)
+- [跟老卫学HarmonyOS开发](https://github.com/waylau/harmonyos-tutorial)
+
 
 
 
